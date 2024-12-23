@@ -23,7 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devgusta5&layout=pie)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 
-### Meta de Aprendizado
+### Metas de Aprendizado 🧠
 
 <div style="display: inline_block"><br/> 
 

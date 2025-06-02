@@ -114,9 +114,9 @@ I am excited to learn, build real projects, and collaborate with others in the t
 
 ### 📊 Statistics
 
-<p align="center">
+<p align="left">
   <img 
-    align="center" 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -124,14 +124,16 @@ I am excited to learn, build real projects, and collaborate with others in the t
   />
 </p>
 
-<p align="center">
+<p align="left">
   <img 
-    align="center" 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devgusta5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+
 
 
 

@@ -123,14 +123,14 @@ I am excited to learn, build real projects, and collaborate with others in the t
 <div align="left" style="display: flex; gap: 10px;">
   <img 
     alt="GitHub Stats" 
-    height="150" 
+    height="300" 
     width="300"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Devgusta5&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="GitHub Stats" 
-    height="150" 
+    height="300" 
     width="300"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devgusta5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />

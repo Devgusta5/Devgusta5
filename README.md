@@ -120,18 +120,15 @@ I am excited to learn, build real projects, and collaborate with others in the t
 
 ### 📊 Statistics
 
-<div align="left" style="display: flex; gap: 10px;">
+<div align="center">
   <img 
     alt="GitHub Stats" 
-    height="460" 
-    width="460"
-    style="padding-right: 10px;" 
+    width="400"
     src="https://github-readme-stats.vercel.app/api?username=Devgusta5&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
-    alt="GitHub Stats" 
-    height="450" 
-    width="450"
+    alt="Top Langs" 
+    width="400"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devgusta5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>

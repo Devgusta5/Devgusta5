@@ -1,5 +1,5 @@
 
-# 👩🏻‍💻 Gustavo Rodrigues Silva
+# 👋 Hello, I'm Gustavo Rodrigues 👩🏻‍💻 
 
 **`Beginner Fullstack Developer`**
 

@@ -81,15 +81,15 @@
 🔗 Confira mais repositórios no meu GitHub!  
 <a href="https://github.com/Devgusta5?tab=repositories" target="_blank">Clique aqui paa ver meu GitHub!</a>
 
-- <b><a href="https://github.com/Devgusta5/Pintoo">Pintoo</a></b> <sub>(Canvas) (tailwind) (Paint)</sub>  
-- <b><a href="https://github.com/Devgusta5/Scriptum-Library">Scriptum-Library</a></b> <sub>(Biblioteca virtual – Hackathon)</sub>  
+- <b><a href="https://github.com/Devgusta5/Pintoo-">Pintoo</a></b> <sub>(Canvas) (tailwind) (Paint)</sub>  
+- <b><a href="https://github.com/Scriptum-Hackaton/Scriptum-Library">Scriptum-Library</a></b> <sub>(Biblioteca virtual – Hackathon) (mediapipe)</sub>  
 - <b><a href="https://github.com/Otavio-Emanoel/BeautyHub">BeautyHub</a></b> <sub>(Next.js & TypeScript) (node) (firebase)</sub>  
 - <b><a href="https://github.com/Devgusta5/Enem-Gate-Escape">Enem-Gate-Escape</a></b> <sub>(React) (tailwind)</sub>  
 - <b><a href="https://github.com/Devgusta5/CoreFlow-OG">CoreFlow-OG</a></b> <sub>(Organizador de treino) (expo) (React Native)</sub>  
 - <b><a href="https://github.com/Devgusta5/NeuroStore">NeuroStore</a></b> <sub>(MediaPipe, NPM, Selframework)</sub>  
-- <b><a href="https://github.com/Devgusta5/portfolio">portfolio</a></b> <sub>(React Native – TypeScript)</sub>  
-- <b><a href="https://github.com/Devgusta5/Instituto-Amar">Instituto-Amar</a></b> <sub>(Next) (tailwind)</sub>  
-- <b><a href="https://github.com/Devgusta5/Projeto-G-nesis">Projeto-G-nesis</a></b> <sub>(E-commerce futurista) (firebase)</sub>  
+- <b><a href="https://github.com/Devgusta5/portfolio">Portfólio</a></b> <sub>(html) (css) (js)</sub>  
+- <b><a href="https://github.com/Devgusta5/Instituto-Amar">InstitutoAmar</a></b> <sub>(Next) (tailwind)</sub>  
+- <b><a href="https://github.com/Devgusta5/Projeto-G-nesis">Projeto-Gênesis</a></b> <sub>(E-commerce futurista) (firebase)</sub>  
 
 
 ---
@@ -103,10 +103,3 @@
 
 ---
 
-## 🌐 Conecte-se Comigo
-
-<p align="left">
-  <a href="https://github.com/Devgusta5">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>

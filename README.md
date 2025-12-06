@@ -79,25 +79,26 @@
 ## 🚩 Projetos em Destaque
 
 🔗 Confira mais repositórios no meu GitHub!  
-<a href="https://github.com/Devgusta5?tab=repositories" target="_blank">Clique aqui</a>
+<a href="https://github.com/Devgusta5?tab=repositories" target="_blank">Clique aqui paa ver meu GitHub!</a>
 
-- **Pintoo-** – Canvas 
-- **Scriptum-Library** – Biblioteca virtual (Hackathon)  
-- **BeautyHub** – Next.js & TypeScript  
-- **Enem-Gate-Escape** – React  
-- **CoreFlow-OG** – Treino  
-- **NeuroStore** – Media Pipe, Npm, Framework 
-- **portfolio** – React Native (TS) 
-- **Instituto-Amar** – React Native (TS)  
-- **Projeto-G-nesis** – E-comerce futurista  
+- <b><a href="https://github.com/Devgusta5/Pintoo">Pintoo</a></b> <sub>(Canvas) (tailwind) (Paint)</sub>  
+- <b><a href="https://github.com/Devgusta5/Scriptum-Library">Scriptum-Library</a></b> <sub>(Biblioteca virtual – Hackathon)</sub>  
+- <b><a href="https://github.com/Otavio-Emanoel/BeautyHub">BeautyHub</a></b> <sub>(Next.js & TypeScript) (node) (firebase)</sub>  
+- <b><a href="https://github.com/Devgusta5/Enem-Gate-Escape">Enem-Gate-Escape</a></b> <sub>(React) (tailwind)</sub>  
+- <b><a href="https://github.com/Devgusta5/CoreFlow-OG">CoreFlow-OG</a></b> <sub>(Organizador de treino) (expo) (React Native)</sub>  
+- <b><a href="https://github.com/Devgusta5/NeuroStore">NeuroStore</a></b> <sub>(MediaPipe, NPM, Selframework)</sub>  
+- <b><a href="https://github.com/Devgusta5/portfolio">portfolio</a></b> <sub>(React Native – TypeScript)</sub>  
+- <b><a href="https://github.com/Devgusta5/Instituto-Amar">Instituto-Amar</a></b> <sub>(Next) (tailwind)</sub>  
+- <b><a href="https://github.com/Devgusta5/Projeto-G-nesis">Projeto-G-nesis</a></b> <sub>(E-commerce futurista) (firebase)</sub>  
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Devgusta5&show_icons=true&theme=radical"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devgusta5&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devgusta5&show_icons=true&theme=radical" alt="Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devgusta5&layout=compact&theme=radical" alt="Top Langs"/>
 </div>
 
 ---
@@ -105,7 +106,7 @@
 ## 🌐 Conecte-se Comigo
 
 <p align="left">
-  <a href="https://github.com/(nome)">
+  <a href="https://github.com/Devgusta5">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>

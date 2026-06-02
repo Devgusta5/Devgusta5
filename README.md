@@ -8,6 +8,18 @@
   Transformando problemas reais em soluções digitais.
 </p>
 
+<p align="center">
+  <b>📫 Contate-me!</b><br>
+
+  <p align="center">
+  <a href="gusta.gu.112007.55@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/devgusta5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 ```typescript
 const gustavo = {
   role: "Full Stack Developer",

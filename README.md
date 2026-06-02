@@ -1,85 +1,111 @@
-<h1 align="center">👋 Olá, eu sou o Gustavo</h1>
+<h1 align="center">👋🏿 Olá, eu sou o Gustavo</h1>
 
 <p align="center">
-  <b>Desenvolvedor em formação • Entusiasta da Web • Explorador de Tecnologias</b>
+  <strong>Full Stack Developer • Criador do EtecNotes • +1100 usuários impactados</strong>
 </p>
+
+<p align="center">
+  Transformando problemas reais em soluções digitais.
+</p>
+
+```typescript
+const gustavo = {
+  role: "Full Stack Developer",
+  currentProject: "EtecNotes",
+  url: "https://etecnotes.com.br",
+  usersImpacted: +1100,
+  stack: ["React", "Node.js", "Firebase"],
+  learning: [".NET", "Cloud", "AI"],
+  goal: "Building products that solve real problems"
+};
+
+export default gustavo;
+```
 
 ---
 
-## 🚀 Sobre Mim
-
-- 🎓 Estudante de <b>Desenvolvimento de Sistemas</b> na <b>Etec de Peruíbe</b>  
-- 💡 Apaixonado por resolver problemas pessoais e alheios através da tecnologia 
-- 🌱 Estudando atualmente: <b>Node.js</b>, <b>React</b>, <b>Express</b>, <b>Dart</b> e <b>Flutter</b>  
-- 🧩 Sempre explorando ferramentas, libs e boas práticas  
-- 🤝 Aberto a colaborações e novos desafios  
-
+## 🚀 About Me
+- 📚 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **UNISANTA**
+- 💻 Co-criador do **EtecNotes**, plataforma educacional com mais de **1100 usuários cadastrados**
+- 🏆 Vencedor de **2 Hackathons consecutivas**
+- 🎓 Técnico em Desenvolvimento de Sistemas pela ETEC de Peruíbe
+- 🤝 Sempre aberto a aprender, colaborar e construir soluções úteis
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## ⚡ Tech Stack
 
-### 💻 Linguagens
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="180"><b>Linguagens</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="TypeScript" title="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript" title="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" alt="C#" title="C#" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" alt="HTML" title="HTML" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" alt="CSS" title="CSS" />
+    </td>
+  </tr>
 
-### 📦 Frameworks & Bibliotecas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" style="background:white; border-radius:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-</p>
+  <tr>
+    <td align="center"><b>Front-end</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React" title="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="36" alt="Next.js" title="Next.js" style="background-color:white; border-radius:8px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="36" alt="Vite" title="Vite" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" alt="Tailwind CSS" title="Tailwind CSS" />
+    </td>
+  </tr>
 
-### 🗄️ Bancos de Dados
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40"/>
-</p>
+  <tr>
+    <td align="center"><b>Back-end</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js" title="Node.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" alt="Express" title="Express" style="background-color:white; border-radius:8px; padding:2px;" />
+    </td>
+  </tr>
 
-### ☁️ Cloud & Deploy
-<p align="left">
-  <img src="https://cdn.simpleicons.org/vercel/000000" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
-</p>
+  <tr>
+    <td align="center"><b>Mobile</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" alt="Flutter" title="Flutter" />
+      <img src="https://cdn.simpleicons.org/expo/000020" width="36" alt="Expo" title="Expo (React Native)" style="background-color:white; border-radius:8px; padding:2px;" />
+    </td>
+  </tr>
 
-### 🛠️ Ferramentas & Editores
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-</p>
+  <tr>
+    <td align="center"><b>Banco de dados</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" alt="MySQL" title="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB" title="MongoDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="36" alt="Firebase" title="Firebase" />
+    </td>
+  </tr>
 
-### 🎨 Design & Produtividade
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" width="40"/>
-</p>
+  <tr>
+    <td align="center"><b>Cloud / Deploy</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/vercel/000000" width="36" alt="Vercel" title="Vercel" style="background-color:white; border-radius:8px; padding:2px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" alt="Azure" title="Azure" />
+    </td>
+  </tr>
 
-### 🤖 AI & Extensões
-<p align="left">
-  <img src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.336.0/1750349846155/Microsoft.VisualStudio.Services.Icons.Default" width="40"/>
-</p>
+  <tr>
+    <td align="center"><b>Ferramentas</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git" title="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" alt="VS Code" title="VS Code" />
+      <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="36" alt="Kali Linux" title="Kali Linux" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="36" alt="Ubuntu" title="Ubuntu" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚩 Projetos em Destaque
 
 🔗 Confira mais repositórios no meu GitHub!  
-<a href="https://github.com/Devgusta5?tab=repositories" target="_blank">Clique aqui paa ver meu GitHub!</a>
+<a href="https://github.com/Devgusta5?tab=repositories" target="_blank">Clique aqui para ver meu GitHub!</a>
 
 - <b><a href="https://github.com/Devgusta5/Pintoo-">Pintoo</a></b> <sub>(Canvas) (tailwind) (Paint)</sub>  
 - <b><a href="https://github.com/Scriptum-Hackaton/Scriptum-Library">Scriptum-Library</a></b> <sub>(Biblioteca virtual – Hackathon) (mediapipe)</sub>  
@@ -94,12 +120,5 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devgusta5&show_icons=true&theme=radical" alt="Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devgusta5&layout=compact&theme=radical" alt="Top Langs"/>
-</div>
-
----
 

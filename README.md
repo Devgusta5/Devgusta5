@@ -47,67 +47,54 @@ export default gustavo;
 ## ⚡ Tech Stack
 
 <table align="center">
+
   <tr>
     <td align="center" width="180"><b>Linguagens</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="TypeScript" title="TypeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript" title="JavaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" alt="C#" title="C#" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" alt="HTML" title="HTML" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" alt="CSS" title="CSS" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts,js,cs,html,css" />
     </td>
   </tr>
 
   <tr>
     <td align="center"><b>Front-end</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React" title="React" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="36" alt="Next.js" title="Next.js" style="background-color:white; border-radius:8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="36" alt="Vite" title="Vite" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" alt="Tailwind CSS" title="Tailwind CSS" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
     </td>
   </tr>
 
   <tr>
     <td align="center"><b>Back-end</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js" title="Node.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" alt="Express" title="Express" style="background-color:white; border-radius:8px; padding:2px;" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
     </td>
   </tr>
 
-  <tr>
-    <td align="center"><b>Mobile</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" alt="Flutter" title="Flutter" />
-      <img src="https://cdn.simpleicons.org/expo/000020" width="36" alt="Expo" title="Expo (React Native)" style="background-color:white; border-radius:8px; padding:2px;" />
-    </td>
-  </tr>
+<tr>
+  <td align="center"><b>Mobile</b></td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+    <img src="https://cdn.simpleicons.org/expo/000020" width="36" alt="Expo" title="Expo (React Native)" />
+  </td>
+</tr>
 
   <tr>
     <td align="center"><b>Banco de dados</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" alt="MySQL" title="MySQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB" title="MongoDB" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="36" alt="Firebase" title="Firebase" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
     </td>
   </tr>
 
   <tr>
     <td align="center"><b>Cloud / Deploy</b></td>
-    <td>
-      <img src="https://cdn.simpleicons.org/vercel/000000" width="36" alt="Vercel" title="Vercel" style="background-color:white; border-radius:8px; padding:2px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" alt="Azure" title="Azure" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vercel,azure" />
     </td>
   </tr>
 
   <tr>
     <td align="center"><b>Ferramentas</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git" title="Git" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" alt="VS Code" title="VS Code" />
-      <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="36" alt="Kali Linux" title="Kali Linux" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="36" alt="Ubuntu" title="Ubuntu" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,windows" />
     </td>
   </tr>
 </table>

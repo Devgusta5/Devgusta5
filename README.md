@@ -12,6 +12,10 @@
   <b>📫 Contate-me!</b><br>
 
   <p align="center">
+  🌐 <a href="https://devgusta5.vercel.app"><b>Meu Portfólio</b></a>
+</p>
+
+  <p align="center">
   <a href="gusta.gu.112007.55@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
